@@ -1,1 +1,24 @@
 quantumult x 
+规则内容见
+https://github.com/nzw9314/QuantumultX.git
+将仓库内容使用working copy同步到QX Script目录使用。
+
+以下规则作为分流规则进行订阅
+
+jd price
+https://raw.githubusercontent.com/forcyy/quanx/master/FilterRules/jd_price.conf
+
+taobao price
+https://raw.githubusercontent.com/forcyy/quanx/master/FilterRules/taobao_price.conf
+
+bibili番剧1080+
+https://raw.githubusercontent.com/forcyy/quanx/master/FilterRules/bilibili.conf
+
+微信公众号去广告
+https://raw.githubusercontent.com/forcyy/quanx/master/FilterRules/wechat_ad.conf
+
+youtube去广告
+https://raw.githubusercontent.com/forcyy/quanx/master/FilterRules/youtube_ad.conf
+
+知乎去广告
+https://raw.githubusercontent.com/forcyy/quanx/master/FilterRules/zhihu_ad.conf
