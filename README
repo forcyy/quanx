@@ -3,7 +3,7 @@ quantumult x
 https://github.com/nzw9314/QuantumultX.git
 将仓库内容使用working copy同步到QX Script目录使用。
 
-以下规则作为分流规则进行订阅
+以下规则作为[重写]规则进行订阅
 
 jd price
 https://raw.githubusercontent.com/forcyy/quanx/master/FilterRules/jd_price.conf
